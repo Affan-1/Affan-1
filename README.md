@@ -1,12 +1,12 @@
-- 👋 Hi, I’m @Affan-1
-- 👀 I’m interested in Web Development..
-- 🌱 I’m currently learning coding ...
-- 💞️ I’m looking to collaborate on ...Web Development course
-- 📫 How to reach me through my email...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: very funny
+Hi, I'm Muhammad Affan 👋 <br>
+🚀 Software Engineer | Full Stack Web Developer | Tech Learner
 
-<!---
-Affan-1/Affan-1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I specialize in building modern, scalable, and user-focused web applications. With strong expertise in MERN stack development, I love turning ideas into reliable digital solutions that are clean, efficient, and visually engaging. I’m passionate about solving real-world problems through technology and continuously improving my craft.
+
+I am driven by learning, collaboration, and innovation — always looking to build impactful products and grow alongside forward-thinking teams.
+
+📍 Based in Karachi, Pakistan (open to remote opportunities)
+📱 +92 3233129528
+<a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">📧 Email</a> <br>
+<a href="https://www.linkedin.com/in/muhammad-affan-976423255/">💼 LinkedIn</a> &nbsp;
+ <a href="https://github.com/Affan-1">🖥 GitHub</a> 
